@@ -1,5 +1,3 @@
 ﻿  Zad5.c
-C:\Users\Frane\Desktop\Frane, škola\FESB\github\Github repo\StrukturePodataka\VJ5\VJ5\Zad5.c(40,10): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 1 has type 'int'
-C:\Users\Frane\Desktop\Frane, škola\FESB\github\Github repo\StrukturePodataka\VJ5\VJ5\Zad5.c(81,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Frane\Desktop\Frane, škola\FESB\github\Github repo\StrukturePodataka\VJ5\VJ5\Zad5.c(145,10): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 1 has type 'int'
-  VJ5.vcxproj -> C:\Users\Frane\Desktop\Frane, škola\FESB\github\Github repo\StrukturePodataka\VJ5\x64\Debug\VJ5.exe
+C:\Users\student\Desktop\fjsp\StrukturePodataka\VJ5\VJ5\Zad5.c(81,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  VJ5.vcxproj -> C:\Users\student\Desktop\fjsp\StrukturePodataka\VJ5\x64\Debug\VJ5.exe

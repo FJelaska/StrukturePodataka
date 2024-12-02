@@ -37,7 +37,7 @@ int main() {
 
 	if (Head.next != NULL) {
 		finalprint(&Head);
-		printf("Rezultat: %.2f\n", Head.next->el);
+		printf("Rezultat: %.2f\n", (float)Head.next->el);
 	}
 	else
 		printf("GRESKA!");
@@ -142,7 +142,7 @@ void finalprint(position p) {
 	position current = p->next;
 	printf("Stack content: ");
 	while (current != NULL) {
-		printf("%.2f", current->el);
+		printf("%.2f", (float)current->el);
 		current = current->next;
 	}
 	printf("\n");

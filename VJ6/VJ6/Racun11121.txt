@@ -1,0 +1,5 @@
+2024-11-30
+Meso,1,6
+Mlijeko,2,3
+Krumpiri,5,2
+Kruh,2,1.5

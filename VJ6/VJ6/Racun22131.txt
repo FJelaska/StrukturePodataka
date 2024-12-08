@@ -1,0 +1,5 @@
+2024-9-22
+Banana,1,1
+Jogurt,2,1.5
+Kruh,3,1.5
+Krumpiri,4,2

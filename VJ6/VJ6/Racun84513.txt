@@ -1,0 +1,7 @@
+2023-7-15
+Krumpiri,6,2
+Sir,4,4
+Kruh,2,1.5
+Meso,3,6
+Jaffa,3,3
+Mlijeko,3,3

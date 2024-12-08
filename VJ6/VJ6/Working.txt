@@ -1,0 +1,8 @@
+kumpiri	x	15 (Racun84513 neradi)
+sir	x	6 (Racun74774 neradi)
+kruv	d	13
+meso	x	8 (Racun33445, Racun11121 nerade)
+jaffa	d	9
+mliko	d	11
+banana	x	15 (samo Racun33445 radi)
+jogurt	d	8

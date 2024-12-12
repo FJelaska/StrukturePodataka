@@ -176,7 +176,7 @@ void dat(Racun** racuni, const char* imegldat) {
 		int kol;
 		float cj;
 
-		while (fscanf(racun, "%49[^,],%d,%f\n", name, &kol, &cj) == 3) {
+		while (fscanf(racun, " %49[^,],%d,%f\n", name, &kol, &cj) == 3) {
 			//printf("Unos: %s, kol: %d, cj: %.2f\n", name, kol, cj);
 			InRacun(racuni, datum, name, kol, cj);
 		}

@@ -1,0 +1,13 @@
+﻿  Zad9.c
+C:\Users\HPM6\OneDrive\Desktop\Frane\Github repo\StrukturePodataka\VJ9\VJ9\Zad9.c(24,27): warning C4133: 'function': incompatible types - from 'Node *' to 'Node *'
+C:\Users\HPM6\OneDrive\Desktop\Frane\Github repo\StrukturePodataka\VJ9\VJ9\Zad9.c(24,14): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\HPM6\OneDrive\Desktop\Frane\Github repo\StrukturePodataka\VJ9\VJ9\Zad9.c(26,28): warning C4133: 'function': incompatible types - from 'Node *' to 'Node *'
+C:\Users\HPM6\OneDrive\Desktop\Frane\Github repo\StrukturePodataka\VJ9\VJ9\Zad9.c(26,15): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\HPM6\OneDrive\Desktop\Frane\Github repo\StrukturePodataka\VJ9\VJ9\Zad9.c(35,25): warning C4133: 'function': incompatible types - from 'Node *' to 'Node *'
+C:\Users\HPM6\OneDrive\Desktop\Frane\Github repo\StrukturePodataka\VJ9\VJ9\Zad9.c(36,25): warning C4133: 'function': incompatible types - from 'Node *' to 'Node *'
+C:\Users\HPM6\OneDrive\Desktop\Frane\Github repo\StrukturePodataka\VJ9\VJ9\Zad9.c(45,11): warning C4098: 'InOrder': 'void' function returning a value
+C:\Users\HPM6\OneDrive\Desktop\Frane\Github repo\StrukturePodataka\VJ9\VJ9\Zad9.c(47,14): warning C4133: 'function': incompatible types - from 'Node *' to 'Node *'
+C:\Users\HPM6\OneDrive\Desktop\Frane\Github repo\StrukturePodataka\VJ9\VJ9\Zad9.c(49,14): warning C4133: 'function': incompatible types - from 'Node *' to 'Node *'
+C:\Users\HPM6\OneDrive\Desktop\Frane\Github repo\StrukturePodataka\VJ9\VJ9\Zad9.c(82,8): warning C4047: 'function': 'unsigned int' differs in levels of indirection from 'time_t (__cdecl *)(time_t *const )'
+C:\Users\HPM6\OneDrive\Desktop\Frane\Github repo\StrukturePodataka\VJ9\VJ9\Zad9.c(82,8): warning C4024: 'srand': different types for formal and actual parameter 1
+  VJ9.vcxproj -> C:\Users\HPM6\OneDrive\Desktop\Frane\Github repo\StrukturePodataka\VJ9\x64\Debug\VJ9.exe

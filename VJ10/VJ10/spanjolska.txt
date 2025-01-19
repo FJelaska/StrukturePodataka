@@ -1,0 +1,6 @@
+Barcelona,1627559
+Madrid,3277451
+Valencia,788842
+Sevilla,684340
+Bilbao,345749
+Cordoba,322327

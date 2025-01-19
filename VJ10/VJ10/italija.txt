@@ -1,0 +1,6 @@
+Rome,2761632
+Milan,1371498
+Venice,254661
+Florence,367150
+Naples,914758
+Bologna,392203
